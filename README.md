@@ -1,7 +1,7 @@
 # Berichtsheft Shortcuts bildung.ihk.de
 
 Kleines Tampermonkey Script um die Berichtsheft Einträge zu beschleunigen. <br/>
-Es entfernt die Wochenenden und für 5 Neue Button hinzu:
+Es entfernt die Wochenenden und fügt 5 Neue Button hinzu:
 - "Betrieb"
 - "Urlaub"
 - "Krank"

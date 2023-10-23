@@ -3,7 +3,7 @@
 // @namespace    Shukaaa
 // @version      1.0
 // @description  Entfernt Wochenende und bietet Shortcuts
-// @author       You
+// @author       Shukaaa
 // @match        https://bildung.ihk.de/webcomponent/dibe/AUSZUBILDENDER/berichtsheft/wochenansicht*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ihk.de
 // @grant        none
